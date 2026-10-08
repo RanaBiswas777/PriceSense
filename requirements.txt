@@ -1,0 +1,14 @@
+# Streamlit UI
+streamlit>=1.51
+
+# Database access
+SQLAlchemy>=2.0
+
+# Interactive charts
+plotly>=5.22
+
+# Environment configuration
+python-dotenv>=1.0
+
+# Testing
+pytest>=8.2

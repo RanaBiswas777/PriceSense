@@ -1,0 +1,3 @@
+# This directory stores local runtime data (SQLite database file, sample CSV datasets).
+# Contents are intentionally excluded from version control via .gitignore.
+# Placeholder to keep this folder in version control until real data files are added.
